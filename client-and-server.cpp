@@ -733,7 +733,7 @@ glCallList(fi);
 glPopMatrix();
 glLineWidth(.1);
 
-//R E T R I E V E A    D A T A
+//R E T R I E V E A Â  Â D A T A
 
 if(flag==1)
 {
@@ -758,7 +758,7 @@ glutBitmapCharacter(GLUT_BITMAP_HELVETICA_12,ptr7[i]);
 glPopMatrix();
 //glutIdleFunc(animate);
 }
-// S T O R E S   D A T A
+// S T O R E S Â  D A T A
 if(flag==2)
 {
 glPushMatrix();
@@ -783,7 +783,7 @@ glPopMatrix();
 
 //glutIdleFunc(animate);
 }
-//L I S T  D A T A
+//L I S T Â D A T A
 if(flag==3)
 {
 glPushMatrix();
